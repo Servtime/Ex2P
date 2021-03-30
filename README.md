@@ -1,0 +1,2 @@
+# Ex2P
+Excel2P是一套完成Excle到java的Pojo类自动映射的框架。该框架的亮点是，达成了Excel到Pojo多对一的映射。
